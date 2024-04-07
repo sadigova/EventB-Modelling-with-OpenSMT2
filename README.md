@@ -15,7 +15,7 @@ The following tools and software are installed within the VMware environment:
 3. OpenSMT2: An SMT solver for verifying properties of models expressed in SMT-LIB format. Information and download instructions can be found at OpenSMT GitHub repository (https://github.com/usi-verification-and-security/opensmt).
 
 Setup Instructions
-1. download the VMware image from here:
+1. download the VMware image from here: https://mega.nz/folder/0ediGJrS#PhWWH5sCcq52CnVeMa_8yA
 2. the image contains all the required tools and case study source code
    
 Alternatively if the image does not work in your environment you may follow the guide below:
